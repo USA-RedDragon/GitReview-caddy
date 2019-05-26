@@ -1,4 +1,4 @@
-# Git Review
+# Git Review Caddy
 
 [![CircleCI](https://circleci.com/gh/USA-RedDragon/GitReview-caddy/tree/master.svg?style=svg)](https://circleci.com/gh/USA-RedDragon/GitReview-caddy/tree/master) [![Caddy](https://images.microbadger.com/badges/image/jamcswain/gitreview-caddy.svg)](https://microbadger.com/images/jamcswain/gitreview-caddy "Get your own image badge on microbadger.com")
 
