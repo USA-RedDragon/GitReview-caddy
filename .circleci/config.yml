@@ -11,7 +11,7 @@ jobs:
       - setup_remote_docker
       - run:
           name: Build
-          command: docker build -t jamcswain/gitreview-caddy
+          command: docker build -t jamcswain/gitreview-caddy .
       - run:
           name: Login to Docker Hub
           command: echo "$DOCKERHUB_PASS" | docker login -u "$DOCKERHUB_USERNAME" --password-stdin
